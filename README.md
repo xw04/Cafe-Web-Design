@@ -6,7 +6,7 @@ A multi-page website designed for a concept cafe, focusing on user experience, r
 ## Features
 - **FAQ Page:** Interactive accordion-style questions and animated backgrounds.
 - **Events Page:** Dynamic layout showcasing upcoming cafe events.
-- **Shopping Cart:** Functional front-end logic for item selection (if applicable).
+- **Shopping Cart:** Functional front-end logic for item selection.
 - **Responsive Design:** Optimized for both desktop and mobile viewing.
 
 ## Tech Stack
